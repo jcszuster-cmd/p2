@@ -1,3 +1,4 @@
+!pip install PyPDF2
 import PyPDF2
 import re
 import matplotlib.pyplot as plt
